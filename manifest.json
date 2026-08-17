@@ -1,0 +1,17 @@
+{
+  "name": "Quando pinga?",
+  "short_name": "Quando pinga?",
+  "description": "Contagem regressiva até o crédito do salário, vales, 13º e férias, com dia útil bancário e feriados.",
+  "lang": "pt-BR",
+  "start_url": "/quando-pinga/",
+  "scope": "/quando-pinga/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c1a3f",
+  "theme_color": "#0c1a3f",
+  "icons": [
+    { "src": "/quando-pinga/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/quando-pinga/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/quando-pinga/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
